@@ -1,1 +1,0 @@
-# forseti-code-challenge
